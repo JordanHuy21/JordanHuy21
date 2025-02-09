@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jordan Huynh</h1>
-<h3 align="center">A passionate full-stack developer from NOVA</h3>
+<h3 align="center">A passionate Software developer from NOVA</h3>
 
 - 🔭 I’m currently working on [LeetCode Trainer](n/a)
 
